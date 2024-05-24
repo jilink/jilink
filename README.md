@@ -2,8 +2,6 @@
 
 I'm a French freelance developer working mostly on Reactjs Projects
 
-<a href="https://www.cozy-codeur.fr/newsletter">Every week I send a newsletter for (french) developers / freelance developers</a>
-
 <h2 align="center">Contact me</h2>
 
 <p align="center">
