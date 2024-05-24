@@ -15,23 +15,3 @@ I'm a French freelance developer working mostly on Reactjs Projects
  <img src="https://img.shields.io/badge/-Cozy Codeur-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/CozyCodeur"/>
 </a>
 </p>
-
-<hr>
-
-<h2 align="center">
-  Here are some GitHub stats
-</h2>
- 
-<br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=jilink&show_icons=true&theme=radical&line_height=27">
-</p> 
-<p align = "center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jilink&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=jilink&theme=redical">
-</p> 
-<hr>
